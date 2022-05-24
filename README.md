@@ -5,7 +5,6 @@
 </div>
 **Penetration Test Architect | Python Developer**
 ***
-
  - I'm live in Turkey
  - If u want contact me use this mail 'info@rubargumus.com'
  -    I'm currently working on  [Python](https://www.python.org/) and  [PHP](https://www.php.net/)
