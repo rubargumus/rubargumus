@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rubargumus" alt="rubargumus" /></a> </p>
 
-- 🔭 I’m currently working on [FLASK](https://github.com/rubargumus/blogproject)
+- 🔭 I’m currently working on [FLASK-BLOG-PROJECT](https://github.com/rubargumus/blogproject)
 
 - 📝 I regularly write articles on [https://blog.rubargumus.com](https://blog.rubargumus.com)
 
