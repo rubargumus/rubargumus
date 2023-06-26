@@ -24,7 +24,7 @@ left ">Diller ve Araçlar:</h3>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rubargumus&show_icons=true&locale=tr&layout=compact" alt="rubargumus" /> </p>
 
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=rubargumus&show_icons=true&locale=en" alt="rubargumus" /> </p>
+<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=rubargumus&show_icons=true&locale=en" alt="rubargumus" /> </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rubargumus&" alt="rubargumus" /></p>
 
