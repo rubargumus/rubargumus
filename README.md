@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [FLASK-BLOG-PROJECT](https://github.com/rubargumus/blogproject)
 
-- 📝 I regularly write articles on [https://blog.rubargumus.com](https://blog.rubargumus.com)
+- 📝 I regularly write articles on [https://rubargumus.com](https://rubargumus.com)
 
 - 📫 How to reach me **info@rubargumus.com**
 
